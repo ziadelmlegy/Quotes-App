@@ -1,0 +1,28 @@
+body{
+    background-color: #fff;
+}
+.quote{
+    background-color: #D4F6FF;
+    width: 80%;
+    min-height: 300px;
+    margin:100px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.quote h1{
+    font-size: 80px;
+    font-weight: bolder;
+    letter-spacing: -4px;
+    padding-block: 20px;
+}
+.quote p{
+    font-size: 25px;
+}
+.quote .btn{
+    background-color: blue;
+    padding: 15px 20;
+    margin-block:20px ;
+    color: #fff;
+}
